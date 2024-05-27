@@ -1,13 +1,13 @@
 {
-    "token": "token",
-    "color": "embecolor",
-    "prefix": "&",
-    "name": "Footer Name",
+    "token": "MTI0NDM4NTExNjc5NzUzODM1NQ.GSGRRO.GhxjsgVujk-WA-9FAfbH6ak1N2K8zLEUcjnlWc",
+    "color": "#F300FF",
+    "prefix": "+",
+    "name": "Equipe Narwa",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
     "owner": [
-        "tonid",
-        "id"
+        "1093161040935653406",
+        ""
     ]
 }
